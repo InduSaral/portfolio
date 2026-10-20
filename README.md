@@ -48,3 +48,11 @@ The public site uses `connect.isaral@gmail.com` and intentionally does not displ
 - GitHub and Pages CMS handle authentication through their official flow.
 - GitHub Pages on the free plan generally requires a public repository.
 - No paid hosting, PDF service, or paid image library is required.
+
+
+## Public interactive features (v3)
+- Five visitor-selectable colour themes in the header.
+- Scroll reveal, hero entrance motion, floating details, hover interactions, and a desktop-only cursor glow/dot.
+- Instagram QR image at `media/instagram-qr.png` with profile link `https://www.instagram.com/indu_saral/`. Verify the profile URL before sharing publicly.
+- Education and experience render in separate subheadings.
+- Reduced-motion preferences are respected.
