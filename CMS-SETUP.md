@@ -7,9 +7,9 @@
 - [ ] Sign into https://app.pagescms.org/
 - [ ] Authorize Pages CMS for this repository only
 - [ ] Edit content, education, experience, custom sections and theme
-- [ ] Test the Download resume button; choose A4 and Save as PDF
+- [ ] Test the Download résumé button; choose A4 and Save as PDF
 
-Never paste a GitHub token into the website. The resume is generated locally by the browser's print-to-PDF feature.
+Never paste a GitHub token into the website. The résumé is generated locally by the browser's print-to-PDF feature.
 
 
 Logo and privacy: the supplied Indu Saral logo is included under `media/`. The public site uses `connect.isaral@gmail.com`; phone number and home address are intentionally omitted.
