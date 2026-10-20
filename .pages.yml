@@ -1,0 +1,173 @@
+media:
+  input: media
+  output: /media
+  rename: safe
+  categories: [image, document]
+
+content:
+  - name: portfolio
+    label: Portfolio content & design
+    type: file
+    path: content/site.json
+    format: json
+    fields:
+      - {name: siteTitle, label: Browser title, type: string}
+      - {name: name, label: Full name, type: string, required: true}
+      - {name: role, label: Professional title, type: string}
+      - {name: tagline, label: Tagline, type: string}
+      - {name: description, label: SEO description, type: text}
+      - {name: location, label: Location, type: string}
+      - {name: address, label: Address, type: string}
+      - {name: email, label: Email, type: string}
+      - {name: heroEyebrow, label: Hero label, type: string}
+      - {name: heroHeading, label: Hero heading (HTML line breaks allowed), type: text}
+      - {name: heroText, label: Hero introduction, type: text}
+      - {name: heroButtonText, label: Hero button text, type: string}
+      - {name: heroButtonTarget, label: Hero button target, type: string}
+      - {name: portrait, label: Portrait image, type: image}
+      - {name: portraitAlt, label: Portrait alt text, type: string}
+      - {name: floatingNoteOne, label: Floating note 1, type: string}
+      - {name: floatingNoteTwo, label: Floating note 2, type: string}
+      - {name: trustItems, label: Trust-strip items, type: string, list: true}
+      - {name: aboutKicker, label: About label, type: string}
+      - {name: aboutHeading, label: About heading, type: text}
+      - {name: aboutParagraphOne, label: About paragraph 1, type: text}
+      - {name: aboutParagraphTwo, label: About paragraph 2, type: text}
+      - {name: skills, label: Skills, type: string, list: true}
+      - {name: yearsTeaching, label: Teaching experience label, type: string}
+      - {name: studentsInspired, label: Grades taught label, type: string}
+      - {name: subjectsGrades, label: Subject label, type: string}
+      - name: approaches
+        label: Teaching approach cards
+        type: object
+        list:
+          collapsible:
+            collapsed: true
+            summary: "{title}"
+        fields:
+          - {name: icon, label: Icon, type: string}
+          - {name: title, label: Title, type: string}
+          - {name: text, label: Description, type: text}
+      - {name: approachKicker, label: Teaching approach label, type: string}
+      - {name: approachHeading, label: Teaching approach heading, type: text}
+      - {name: approachIntro, label: Teaching approach introduction, type: text}
+      - name: experience
+        label: Experience entries (add, edit, delete, reorder)
+        type: object
+        list:
+          collapsible:
+            collapsed: true
+            summary: "{title}"
+        fields:
+          - {name: date, label: Date / period, type: string}
+          - {name: title, label: Role and organisation, type: string}
+          - {name: text, label: Description, type: text}
+      - name: education
+        label: Education entries (add, edit, delete, reorder)
+        type: object
+        list:
+          collapsible:
+            collapsed: true
+            summary: "{title}"
+        fields:
+          - {name: date, label: Date / period, type: string}
+          - {name: title, label: Qualification and institution, type: string}
+          - {name: text, label: Details, type: text}
+      - {name: journeyKicker, label: Journey label, type: string}
+      - {name: journeyHeading, label: Journey heading, type: text}
+      - {name: journeyIntro, label: Journey introduction, type: text}
+      - {name: journeyNote, label: Journey note, type: string}
+      - name: projects
+        label: Classroom project cards (add, edit, delete, reorder)
+        type: object
+        list:
+          collapsible:
+            collapsed: true
+            summary: "{title}"
+        fields:
+          - {name: tag, label: Category, type: string}
+          - {name: title, label: Title, type: string}
+          - {name: text, label: Description, type: text}
+          - {name: artText, label: Decorative text, type: text}
+          - {name: image, label: Optional image, type: image}
+          - {name: imageAlt, label: Image alt text, type: string}
+          - {name: accent, label: Card colour hex, type: string}
+      - {name: projectsKicker, label: Projects label, type: string}
+      - {name: projectsHeading, label: Projects heading, type: text}
+      - {name: projectsIntro, label: Projects introduction, type: text}
+      - {name: philosophyLabel, label: Philosophy label, type: string}
+      - {name: philosophyQuote, label: Teaching philosophy quote, type: text}
+      - {name: philosophyAttribution, label: Quote attribution, type: string}
+      - {name: contactKicker, label: Contact label, type: string}
+      - {name: contactHeading, label: Contact heading, type: text}
+      - {name: contactText, label: Contact introduction, type: text}
+      - {name: footerLine, label: Footer text, type: string}
+      - name: customSections
+        label: Custom sections (add, edit, delete, reorder)
+        type: object
+        list:
+          collapsible:
+            collapsed: true
+            summary: "{title}"
+        fields:
+          - {name: id, label: Unique section ID (lowercase, no spaces), type: string}
+          - {name: type, label: Section type, type: select, options: {values: [text]}}
+          - {name: visible, label: Visible on website, type: boolean}
+          - {name: eyebrow, label: Small section label, type: string}
+          - {name: title, label: Section heading, type: string}
+          - {name: body, label: Section content, type: text}
+          - name: cards
+            label: Optional content cards
+            type: object
+            list:
+              collapsible:
+                collapsed: true
+                summary: "{title}"
+            fields:
+              - {name: title, label: Card title, type: string}
+              - {name: body, label: Card text, type: text}
+      - name: resume
+        label: Résumé PDF settings
+        type: object
+        fields:
+          - {name: title, label: Résumé title, type: string}
+          - {name: subtitle, label: Résumé subtitle, type: string}
+          - {name: summary, label: Professional summary, type: text}
+          - {name: showAddress, label: Include address, type: boolean}
+          - {name: showPhone, label: Include phone, type: boolean}
+          - {name: showEmail, label: Include email, type: boolean}
+          - {name: showSkills, label: Include skills, type: boolean}
+          - {name: showActivities, label: Include activities / certifications, type: boolean}
+      - name: theme
+        label: Theme, animations & visibility
+        type: object
+        fields:
+          - {name: preset, label: Theme preset, type: select, options: {values: [garden, ocean, sunset, lavender, monochrome]}}
+          - {name: background, label: Page background hex, type: string}
+          - {name: surface, label: Card background hex, type: string}
+          - {name: text, label: Main text hex, type: string}
+          - {name: muted, label: Secondary text hex, type: string}
+          - {name: primary, label: Brand colour hex, type: string}
+          - {name: primaryText, label: Brand text hex, type: string}
+          - {name: accent, label: Highlight colour hex, type: string}
+          - {name: softOne, label: Soft colour 1 hex, type: string}
+          - {name: softTwo, label: Soft colour 2 hex, type: string}
+          - {name: softThree, label: Soft colour 3 hex, type: string}
+          - {name: font, label: Heading font, type: select, options: {values: [Nunito, "DM Sans", Poppins, Quicksand, "Playfair Display"]}}
+          - {name: bodyFont, label: Body font, type: select, options: {values: ["DM Sans", Nunito, Poppins, Quicksand, "Open Sans"]}}
+          - {name: radius, label: Card roundness, type: select, options: {values: ["12", "18", "26", "34"]}}
+          - {name: shadow, label: Shadow style, type: select, options: {values: [none, soft, bold]}}
+          - {name: animation, label: Animation style, type: select, options: {values: [gentle, playful, minimal, none]}}
+          - {name: animationSpeed, label: Animation duration ms, type: select, options: {values: ["350", "500", "750", "1000"]}}
+          - {name: showFloatingNotes, label: Show hero notes, type: boolean}
+          - {name: showTrustStrip, label: Show trust strip, type: boolean}
+          - {name: showApproach, label: Show teaching approach, type: boolean}
+          - {name: showExperience, label: Show experience, type: boolean}
+          - {name: showEducation, label: Show education, type: boolean}
+          - {name: showProjects, label: Show projects, type: boolean}
+          - {name: showPhilosophy, label: Show philosophy, type: boolean}
+          - {name: showContact, label: Show contact, type: boolean}
+
+settings:
+  content:
+    merge: true
