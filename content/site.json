@@ -1,0 +1,188 @@
+{
+  "siteTitle": "Indu Saral | Science Teacher",
+  "name": "Indu Saral",
+  "role": "Science Teacher · Classes up to Grade 10",
+  "tagline": "Helping curious minds discover the wonder of science.",
+  "description": "Portfolio of Indu Saral, Science Teacher at Winter Wood Global School, Morena, and M.Sc. Zoology student at Jiwaji University, Gwalior.",
+  "location": "Morena, Madhya Pradesh, India",
+  "email": "connect.isaral@gmail.com",
+  "phone": "",
+  "address": "",
+  "heroEyebrow": "Science teacher · Curious mind mentor",
+  "heroHeading": "Making science<br><span class=\"highlight\">come alive.</span>",
+  "heroText": "I’m a science educator who believes that strong foundations, thoughtful explanations, and hands-on curiosity help students understand the world—not just memorise it.",
+  "heroButtonText": "Explore my teaching journey",
+  "portrait": "media/indu-saral-logo.png",
+  "portraitAlt": "Indu Saral Teacher logo",
+  "floatingNoteOne": "Ask. Explore. Discover. ✦",
+  "floatingNoteTwo": "Every question matters ♡",
+  "trustItems": [
+    "Science up to Class 10",
+    "Student-centred teaching",
+    "Clear concept building",
+    "Learning with curiosity"
+  ],
+  "aboutKicker": "Meet your teacher",
+  "aboutHeading": "Science with clarity.<br>Learning with care.",
+  "aboutParagraphOne": "I’m Indu Saral, a Science Teacher at Winter Wood Global School in Morena, teaching Science up to Class 10. I aim to make concepts clear, encourage questions, and help students build confidence in their own understanding.",
+  "aboutParagraphTwo": "My background in Biology, along with my ongoing postgraduate studies in Zoology, supports my interest in scientific thinking and the living world. I value patient explanation, structured lessons, positive classroom relationships, and steady progress.",
+  "skills": [
+    "Science teaching",
+    "Biology foundations",
+    "Lesson planning",
+    "Concept explanation",
+    "Classroom management",
+    "Student-centred learning",
+    "Problem-solving",
+    "Clear communication"
+  ],
+  "yearsTeaching": "2025–Present",
+  "studentsInspired": "Grades 1–10",
+  "subjectsGrades": "Science",
+  "approachKicker": "My teaching approach",
+  "approachHeading": "Build the basics.<br>Keep curiosity alive.",
+  "approachIntro": "Science becomes more approachable when students can connect concepts to the world around them, ask questions freely, and learn step by step.",
+  "approaches": [
+    {
+      "icon": "🔬",
+      "title": "Concepts before cramming",
+      "text": "Break down difficult science topics into clear, manageable explanations and connect ideas to familiar, real-life examples."
+    },
+    {
+      "icon": "🌱",
+      "title": "Curiosity in every lesson",
+      "text": "Invite students to observe, ask questions, think critically, and explore the reasons behind scientific ideas."
+    },
+    {
+      "icon": "♡",
+      "title": "Supportive learning",
+      "text": "Use patient guidance, structured practice, and constructive feedback to help learners strengthen their foundations and confidence."
+    }
+  ],
+  "journeyKicker": "Education & experience",
+  "journeyHeading": "A growing journey<br>in science education.",
+  "journeyIntro": "My academic foundation in Biology and ongoing study in Zoology inform my teaching, alongside experience supporting learners from primary through secondary school.",
+  "journeyNote": "Keep learning. Keep asking why. ✿",
+  "experience": [
+    {
+      "date": "2025 – PRESENT",
+      "title": "Science Teacher · Winter Wood Global School, Morena",
+      "text": "Teaching Science up to Class 10. Focused on helping students understand core concepts, develop scientific thinking, and build confidence through clear explanations and structured learning."
+    },
+    {
+      "date": "APR 2022 – MAR 2024",
+      "title": "Self-employed Home Tutor",
+      "text": "Provided individual tutoring for Grades 1–10 in Science, English, Social Science, and General Knowledge. Planned lessons around learner needs, strengthened subject foundations, and supported preparation for school and board examinations."
+    }
+  ],
+  "education": [
+    {
+      "date": "CURRENTLY PURSUING",
+      "title": "M.Sc. Zoology · T.S.S. College",
+      "text": "Currently pursuing postgraduate study in Zoology; affiliated university: Jiwaji University, Gwalior. Please verify the exact college name and current course dates."
+    },
+    {
+      "date": "MAR 2022",
+      "title": "B.Sc. Biology · Sant Govindram Shadani Girls College",
+      "text": "Studied Botany, Zoology, and Chemistry at Sant Govindram Shadani Girls College, affiliated with Pt. Ravishankar Shukla University, Raipur, Chhattisgarh."
+    }
+  ],
+  "projectsKicker": "Learning in action",
+  "projectsHeading": "Science is all around us.",
+  "projectsIntro": "Replace these editable activity ideas with real classroom activities, science models, exhibitions, worksheets, or student-safe photographs when available.",
+  "projects": [
+    {
+      "tag": "CLASSROOM IDEA",
+      "title": "Everyday science",
+      "text": "Connect classroom concepts to familiar examples so learners can see science in daily life.",
+      "artText": "NOTICE.<br>ASK WHY. 🔎",
+      "image": "",
+      "imageAlt": "",
+      "accent": "#ffe98c"
+    },
+    {
+      "tag": "BIOLOGY",
+      "title": "Explore the living world",
+      "text": "Use diagrams, observation, and clear explanations to make biology topics easier to understand.",
+      "artText": "LIFE IS<br>AMAZING 🌿",
+      "image": "",
+      "imageAlt": "",
+      "accent": "#d8f1df"
+    },
+    {
+      "tag": "CONCEPT BUILDING",
+      "title": "Learn it step by step",
+      "text": "Build strong foundations with guided practice, recap questions, and meaningful examples.",
+      "artText": "SMALL STEPS.<br>BIG IDEAS ✦",
+      "image": "",
+      "imageAlt": "",
+      "accent": "#ffd8e2"
+    },
+    {
+      "tag": "STUDENT CURIOSITY",
+      "title": "Question corner",
+      "text": "Encourage learners to ask questions, explain their reasoning, and think like young scientists.",
+      "artText": "STAY<br>CURIOUS ♡",
+      "image": "",
+      "imageAlt": "",
+      "accent": "#e4ddff"
+    }
+  ],
+  "philosophyLabel": "My teaching belief",
+  "philosophyQuote": "“The goal is not only to teach a scientific fact, but to help a student become curious enough to ask the next question.”",
+  "philosophyAttribution": "INDU SARAL · SCIENCE TEACHER",
+  "contactKicker": "Let’s connect",
+  "contactHeading": "Let’s help young minds<br>think bigger. 🌱",
+  "contactText": "For teaching opportunities, school collaborations, or professional enquiries, feel free to get in touch.",
+  "resumeButtonText": "Download résumé",
+  "footerLine": "Helping curious minds discover the wonder of science.",
+  "customSections": [
+    {
+      "id": "activities",
+      "type": "text",
+      "visible": true,
+      "eyebrow": "Beyond the classroom",
+      "title": "Activities & certifications",
+      "body": "The earlier résumé lists participation in school science exhibitions and quiz competitions, volunteering in school functions and cultural events, and membership in a school nature/environment club. It also lists Scout & Guide certification, a School-Level General Knowledge Test certificate, and CPR awareness training. Confirm these details and dates before formal use.",
+      "cards": []
+    }
+  ],
+  "resume": {
+    "title": "Indu Saral",
+    "subtitle": "Science Teacher",
+    "showAddress": false,
+    "showPhone": false,
+    "showEmail": true,
+    "showSkills": true,
+    "showActivities": true,
+    "summary": "Science Teacher at Winter Wood Global School, Morena, teaching Science up to Class 10. Brings a Biology background, ongoing postgraduate study in Zoology, and prior tutoring experience across Grades 1–10. Focuses on clear explanations, structured lesson planning, scientific thinking, and a supportive learning environment."
+  },
+  "theme": {
+    "preset": "garden",
+    "background": "#fff9f1",
+    "surface": "#fffefd",
+    "text": "#283b35",
+    "muted": "#687970",
+    "primary": "#326957",
+    "primaryText": "#ffffff",
+    "accent": "#ffe98c",
+    "softOne": "#d8f1df",
+    "softTwo": "#ffd8e2",
+    "softThree": "#e4ddff",
+    "font": "Nunito",
+    "bodyFont": "DM Sans",
+    "radius": "26",
+    "shadow": "soft",
+    "animation": "gentle",
+    "animationSpeed": "750",
+    "showFloatingNotes": true,
+    "showTrustStrip": true,
+    "showApproach": true,
+    "showExperience": true,
+    "showEducation": true,
+    "showProjects": true,
+    "showPhilosophy": true,
+    "showContact": true
+  },
+  "logo": "media/indu-saral-logo.png"
+}
