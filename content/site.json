@@ -6,13 +6,11 @@
   "description": "Portfolio of Indu Saral, Science Teacher at Winter Wood Global School, Morena, and M.Sc. Zoology student at Jiwaji University, Gwalior.",
   "location": "Morena, Madhya Pradesh, India",
   "email": "connect.isaral@gmail.com",
-  "phone": "",
-  "address": "",
   "heroEyebrow": "Science teacher · Curious mind mentor",
   "heroHeading": "Making science<br><span class=\"highlight\">come alive.</span>",
   "heroText": "I’m a science educator who believes that strong foundations, thoughtful explanations, and hands-on curiosity help students understand the world—not just memorise it.",
   "heroButtonText": "Explore my teaching journey",
-  "portrait": "media/indu-saral-logo.png",
+  "portrait": "/media/indu-saral-logo.png",
   "portraitAlt": "Indu Saral Teacher logo",
   "floatingNoteOne": "Ask. Explore. Discover. ✦",
   "floatingNoteTwo": "Every question matters ♡",
@@ -66,7 +64,7 @@
   "experience": [
     {
       "date": "2025 – PRESENT",
-      "title": "Science Teacher · Winter Wood Global School, Morena",
+      "title": "Science Teacher · Winter Wood Global School, Morena (MP)",
       "text": "Teaching Science up to Class 10. Focused on helping students understand core concepts, develop scientific thinking, and build confidence through clear explanations and structured learning."
     },
     {
@@ -79,12 +77,12 @@
     {
       "date": "CURRENTLY PURSUING",
       "title": "M.Sc. Zoology · T.S.S. College",
-      "text": "Currently pursuing postgraduate study in Zoology, affiliated with Jiwaji University, Gwalior."
+      "text": "Currently pursuing postgraduate study in Zoology, affiliated with Jiwaji University, Gwalior (MP)."
     },
     {
       "date": "MAR 2022",
       "title": "B.Sc. Biology · Sant Govindram Shadani Girls College",
-      "text": "Studied Botany, Zoology, and Chemistry at Sant Govindram Shadani Girls College, affiliated with Pt. Ravishankar Shukla University, Raipur, Chhattisgarh."
+      "text": "Studied Botany, Zoology, and Chemistry at Sant Govindram Shadani Girls College, affiliated with Pt. Ravishankar Shukla University, Raipur (CG)."
     }
   ],
   "projectsKicker": "Learning in action",
@@ -96,8 +94,6 @@
       "title": "Everyday science",
       "text": "Connect classroom concepts to familiar examples so learners can see science in daily life.",
       "artText": "NOTICE.<br>ASK WHY. 🔎",
-      "image": "",
-      "imageAlt": "",
       "accent": "#ffe98c"
     },
     {
@@ -105,8 +101,6 @@
       "title": "Explore the living world",
       "text": "Use diagrams, observation, and clear explanations to make biology topics easier to understand.",
       "artText": "LIFE IS<br>AMAZING 🌿",
-      "image": "",
-      "imageAlt": "",
       "accent": "#d8f1df"
     },
     {
@@ -114,8 +108,6 @@
       "title": "Learn it step by step",
       "text": "Build strong foundations with guided practice, recap questions, and meaningful examples.",
       "artText": "SMALL STEPS.<br>BIG IDEAS ✦",
-      "image": "",
-      "imageAlt": "",
       "accent": "#ffd8e2"
     },
     {
@@ -123,8 +115,6 @@
       "title": "Question corner",
       "text": "Encourage learners to ask questions, explain their reasoning, and think like young scientists.",
       "artText": "STAY<br>CURIOUS ♡",
-      "image": "",
-      "imageAlt": "",
       "accent": "#e4ddff"
     }
   ],
@@ -143,8 +133,7 @@
       "visible": true,
       "eyebrow": "Beyond the classroom",
       "title": "Activities & certifications",
-      "body": "The earlier résumé lists participation in school science exhibitions and quiz competitions, volunteering in school functions and cultural events, and membership in a school nature/environment club. It also lists Scout & Guide certification, a School-Level General Knowledge Test certificate, and CPR awareness training. Confirm these details and dates before formal use.",
-      "cards": []
+      "body": "The earlier résumé lists participation in school science exhibitions and quiz competitions, volunteering in school functions and cultural events, and membership in a school nature/environment club. It also lists Scout & Guide certification, a School-Level General Knowledge Test certificate, and CPR awareness training. Confirm these details and dates before formal use."
     }
   ],
   "resume": {
