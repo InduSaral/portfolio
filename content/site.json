@@ -87,33 +87,33 @@
   ],
   "projectsKicker": "Learning in action",
   "projectsHeading": "Science is all around us.",
-  "projectsIntro": "Replace these editable activity ideas with real classroom activities, science models, exhibitions, worksheets, or student-safe photographs when available.",
+  "projectsIntro": "Explore classroom learning through science activities, hands-on models, educational exhibitions, and worksheets that help students understand scientific concepts through practical experiences.",
   "projects": [
     {
       "tag": "CLASSROOM IDEA",
       "title": "Everyday science",
-      "text": "Connect classroom concepts to familiar examples so learners can see science in daily life.",
+      "text": "Explore how scientific principles appear in everyday life through familiar examples, observation, and thought-provoking questions.",
       "artText": "NOTICE.<br>ASK WHY. 🔎",
       "accent": "#ffe98c"
     },
     {
       "tag": "BIOLOGY",
       "title": "Explore the living world",
-      "text": "Use diagrams, observation, and clear explanations to make biology topics easier to understand.",
+      "text": "Discover biology through clear explanations, labelled diagrams, and the study of living organisms and their interactions with the environment.",
       "artText": "LIFE IS<br>AMAZING 🌿",
       "accent": "#d8f1df"
     },
     {
       "tag": "CONCEPT BUILDING",
       "title": "Learn it step by step",
-      "text": "Build strong foundations with guided practice, recap questions, and meaningful examples.",
+      "text": "Build strong subject foundations through structured explanations, guided practice, revision questions, and step-by-step concept development.",
       "artText": "SMALL STEPS.<br>BIG IDEAS ✦",
       "accent": "#ffd8e2"
     },
     {
       "tag": "STUDENT CURIOSITY",
       "title": "Question corner",
-      "text": "Encourage learners to ask questions, explain their reasoning, and think like young scientists.",
+      "text": "Encourage scientific thinking by asking questions, examining evidence, explaining ideas, and exploring the reasons behind everyday phenomena.",
       "artText": "STAY<br>CURIOUS ♡",
       "accent": "#e4ddff"
     }
@@ -133,7 +133,7 @@
       "visible": true,
       "eyebrow": "Beyond the classroom",
       "title": "Activities & certifications",
-      "body": "The earlier résumé lists participation in school science exhibitions and quiz competitions, volunteering in school functions and cultural events, and membership in a school nature/environment club. It also lists Scout & Guide certification, a School-Level General Knowledge Test certificate, and CPR awareness training. Confirm these details and dates before formal use."
+      "body": "Participated in school science exhibitions and quiz competitions, volunteered in school functions and cultural-event coordination, and was an active member of the school nature and environment club. Certifications include Scout & Guide training, a school-level General Knowledge Test certificate, and CPR (Cardiopulmonary Resuscitation) awareness training."
     }
   ],
   "resume": {
